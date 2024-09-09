@@ -14,10 +14,10 @@ It is my goal to consisitently build upon that foundation and learn all that i c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Splunk UF SIEM</a>|
-| Active Directory Configuration and Management | <a href="https://google.com">Splunk UF SIEM</a>|
-| Splunk Universal Forwarder with Sysmon Event Logs| <a href="https://google.com">Splunk UF SIEM</a>|
-| Splunk Triggered Event Alerts | <a href="https://google.com">Splunk UF SIEM</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
+| Active Directory Configuration and Management | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
+| Splunk Universal Forwarder with Sysmon Event Logs| <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
+| Splunk Triggered Event Alerts | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
 
 
 ## Tools
