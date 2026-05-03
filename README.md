@@ -3,6 +3,7 @@
 
 
 I am a security enthusiast with a profound passion for learning and implementing skills to solve complex and challenging problems.
+This GitHub profile serves as my cyber security portfolio, to showcase my projects and experience.
 
 ## Objective
 
