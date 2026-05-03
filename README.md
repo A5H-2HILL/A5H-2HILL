@@ -53,13 +53,14 @@ It is my goal to consisitently build upon that foundation and learn all that i c
 <div>
 <img src="https://img.shields.io/badge/-Certificate_IV_in_Cybersecurity-004B49?&style=for-the-badge&logo=certificate&logoColor=white" />
 <img src="https://img.shields.io/badge/-edX_Cybersecurity_Bootcamp-1F70C1?&style=for-the-badge&logo=edx&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA%20Security%2B?logo=CompTIA&labelColor=red" />
 
-  Currently Studying for CompTIA Security+ Certification!
+
 
 </div>
 
 ## Projects
 - Splunk UF SIEM
 - REKALL Penetration Test
-- Building Security Monitoring Environment
+- MegaCorpOne Penetration Test
 - Build, Secure, Protect Web App
