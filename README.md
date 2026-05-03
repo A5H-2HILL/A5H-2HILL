@@ -10,7 +10,7 @@ This GitHub profile serves as my cyber security portfolio, to showcase my projec
 My educational journey into Cybersecurity began almost 6 years ago and has led me to develop a strong foundation of core security concepts, tools, frameworks and standards. 
 It is my goal to consisitently build upon that foundation and learn all that i can to sharpen my skillset and break into my first job in the Cybersecurity industry.
 
-## Skill
+## Skills
 
 
 | Skill                                         | Associated Project         |
