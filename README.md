@@ -53,7 +53,7 @@ It is my goal to consisitently build upon that foundation and learn all that i c
 <div>
 <img src="https://img.shields.io/badge/-Certificate_IV_in_Cybersecurity-004B49?&style=for-the-badge&logo=certificate&logoColor=white" />
 <img src="https://img.shields.io/badge/-edX_Cybersecurity_Bootcamp-1F70C1?&style=for-the-badge&logo=edx&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA%20Security%2B?logo=CompTIA&labelColor=red" />
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
 
 
 
