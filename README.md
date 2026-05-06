@@ -13,7 +13,7 @@ It is my goal to consisitently build upon that foundation and learn all that i c
 ## Skills
 
 
-| Skill                                         | Associated Project         |
+| Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
 | Active Directory Configuration and Management | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
