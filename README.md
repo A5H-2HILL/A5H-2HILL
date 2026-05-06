@@ -15,22 +15,24 @@ It is my goal to consisitently build upon that foundation and learn all that i c
 
 | Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
-| Active Directory Configuration and Management | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
-| Splunk Universal Forwarder with Sysmon Event Logs| <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
-| Splunk Triggered Event Alerts                 | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
-| Open-Source Intelligence (OSINT) & Reconnaissance | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
-| Network Scanning & Enumeration (Nmap, Zenmap) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
-| Vulnerability Analysis & Exploit Identification | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
-| Exploitation (Metasploit, Searchsploit, RCE)  | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
-| Privilege Escalation (Linux & Windows)        | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
-| Credential Attacks (Hash Cracking, Password Attacks) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
-| Lateral Movement (SMB, WMI, Credential Reuse) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
-| LLMNR/NBT-NS Spoofing (Responder)             | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
-| Persistence Techniques (Backdoors, Scheduled Tasks) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
-| Windows Post-Exploitation (LSASS Dumping, SYSTEM Access) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
-| Penetration Testing Reporting & Risk Assessment | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
-| MITRE ATT&CK Framework | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
+| SIEM Implementation, Log Ingestion & Threat Detection (Splunk Enterprise + UF) | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a> |
+| Security Monitoring with Sysmon Event Telemetry (Windows Event Correlation) | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a> |
+| Active Directory Configuration, Domain Services & Attack Surface Management | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a> |
+| Security Alerting & Detection Engineering (Brute-force / EventCode 4625 Detection) | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a> |
+| Endpoint Telemetry Pipeline Design (Sysmon → Universal Forwarder → SIEM Indexing) | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a> |
+| Log Analysis & Security Event Investigation (Windows Event Logs via Splunk) | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a> |
+| Attack Simulation & Adversary Emulation (Brute-force Credential Attacks) | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a> |
+| Detection of Indicators of Compromise (IoCs) & Incident Analysis | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a> |
+| Incident Detection, Alert Creation & SIEM Rule Development | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a> |
+| Open-Source Intelligence (OSINT) & Reconnaissance | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a> |
+| Network Scanning & Enumeration (Nmap, Zenmap, NSE scripting) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a> |
+| Exploitation Engineering (Metasploit, RCE payloads, Searchsploit, msfvenom) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a> |
+| Privilege Escalation (Linux sudo abuse, Windows SYSTEM escalation) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a> |
+| Credential Attacks & Password Cracking (Hashcat, John the Ripper) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a> |
+| Lateral Movement in Active Directory Environments (SMB, WMI, Credential Reuse) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a> |
+| Post-Exploitation Persistence (Scheduled Tasks, Backdoor Accounts, Service Abuse) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a> |
+| MITRE ATT&CK Mapping & Adversary Simulation Lifecycle Analysis | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a> |
+| Security Reporting, Risk Classification & Vulnerability Remediation Design | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a> |
 
 ## Tools
 
