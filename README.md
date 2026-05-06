@@ -10,8 +10,8 @@ This GitHub profile serves as my cyber security portfolio, to showcase my projec
 My educational journey into Cybersecurity began almost 6 years ago and has led me to develop a strong foundation of core security concepts, tools, frameworks and standards. 
 It is my goal to consisitently build upon that foundation and learn all that i can to sharpen my skillset and break into my first job in the Cybersecurity industry.
 
-## Skills
 
+## Skills
 
 | Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -34,13 +34,12 @@ It is my goal to consisitently build upon that foundation and learn all that i c
 
 ## Tools
 
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-NMAP-004E8C?&style=for-the-badge&logo=nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-NESSUS-5B5B5B?&style=for-the-badge&logo=nessus&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Zenmap-004E8C?&style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
 ### Offensive Security
@@ -49,9 +48,15 @@ It is my goal to consisitently build upon that foundation and learn all that i c
     <img src="https://img.shields.io/badge/-Burp_Suite-FF9C33?&style=for-the-badge&logo=burp-suite&logoColor=white" />
     <img src="https://img.shields.io/badge/-John_the_Ripper-FF0000?&style=for-the-badge&logo=john&logoColor=white" />
     <img src="https://img.shields.io/badge/-Crowbar-00B2A9?&style=for-the-badge&logo=crowbar&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-Searchsploit-2E2E2E?&style=for-the-badge&logo=exploitdb&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Responder-4B0082?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MSFVenom-1F1F1F?&style=for-the-badge&logo=metasploit&logoColor=white" />
+</div>
 
-    
+### Reconnaissance / OSINT
+<div>
+    <img src="https://img.shields.io/badge/-Shodan-FF4C00?&style=for-the-badge&logo=shodan&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Recon--ng-2C2C2C?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
 ### SIEM
@@ -59,6 +64,19 @@ It is my goal to consisitently build upon that foundation and learn all that i c
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+
+### Credential & Password Attacks
+<div>
+    <img src="https://img.shields.io/badge/-Hashcat-FF6600?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+</div>
+
+### Remote Access / Post Exploitation
+<div>
+    <img src="https://img.shields.io/badge/-SSH-2C2C2C?&style=for-the-badge&logo=openssh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SMBClient-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WMI-003366?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
 
 ## Certifications
 <div>
