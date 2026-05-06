@@ -80,6 +80,12 @@ It is my goal to consisitently build upon that foundation and learn all that i c
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
+### Cloud Platforms
+<div>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</div>
+
 ### Remote Access / Post Exploitation
 <div>
     <img src="https://img.shields.io/badge/-SSH-2C2C2C?&style=for-the-badge&logo=openssh&logoColor=white" />
