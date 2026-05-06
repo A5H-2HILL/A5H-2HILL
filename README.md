@@ -51,6 +51,7 @@ It is my goal to consisitently build upon that foundation and learn all that i c
     <img src="https://img.shields.io/badge/-Searchsploit-2E2E2E?&style=for-the-badge&logo=exploitdb&logoColor=white" />
     <img src="https://img.shields.io/badge/-Responder-4B0082?&style=for-the-badge&logo=kalilinux&logoColor=white" />
     <img src="https://img.shields.io/badge/-MSFVenom-1F1F1F?&style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-FF6600?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
 ### Reconnaissance / OSINT
@@ -63,11 +64,6 @@ It is my goal to consisitently build upon that foundation and learn all that i c
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### Credential & Password Attacks
-<div>
-    <img src="https://img.shields.io/badge/-Hashcat-FF6600?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
 ### Remote Access / Post Exploitation
