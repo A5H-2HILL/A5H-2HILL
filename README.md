@@ -34,25 +34,20 @@ It is my goal to consisitently build upon that foundation and learn all that i c
 | MITRE ATT&CK Mapping & Adversary Simulation Lifecycle Analysis | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a> |
 | Security Reporting, Risk Classification & Vulnerability Remediation Design | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a> |
 
+
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-NMAP-004E8C?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NESSUS-5B5B5B?&style=for-the-badge&logo=nessus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zenmap-004E8C?&style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
 ### Offensive Security
 <div>
     <img src="https://img.shields.io/badge/-Metasploit-003C3C?&style=for-the-badge&logo=metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF9C33?&style=for-the-badge&logo=burp-suite&logoColor=white" />
     <img src="https://img.shields.io/badge/-John_the_Ripper-FF0000?&style=for-the-badge&logo=john&logoColor=white" />
     <img src="https://img.shields.io/badge/-Crowbar-00B2A9?&style=for-the-badge&logo=crowbar&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Searchsploit-2E2E2E?&style=for-the-badge&logo=exploitdb&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Responder-4B0082?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MSFVenom-1F1F1F?&style=for-the-badge&logo=metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hashcat-FF6600?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
@@ -62,10 +57,19 @@ It is my goal to consisitently build upon that foundation and learn all that i c
     <img src="https://img.shields.io/badge/-Recon--ng-2C2C2C?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM / Detection Engineering
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-2B2B2B?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Event_Logs-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+### Identity & Infrastructure (Lab Environment)
+<div>
+    <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server-2B579A?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
 ### Remote Access / Post Exploitation
