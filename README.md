@@ -77,6 +77,7 @@ It is my goal to consisitently build upon that foundation and learn all that i c
     <img src="https://img.shields.io/badge/-Windows_Server-2B579A?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
 ### Remote Access / Post Exploitation
