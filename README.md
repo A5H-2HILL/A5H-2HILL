@@ -10,6 +10,9 @@ This GitHub profile serves as my cyber security portfolio, to showcase my projec
 My educational journey into Cybersecurity began almost 6 years ago and has led me to develop a strong foundation of core security concepts, tools, frameworks and standards. 
 It is my goal to consisitently build upon that foundation and learn all that i can to sharpen my skillset and break into my first job in the Cybersecurity industry.
 
+## Projects
+- <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>
+- <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>
 
 ## Skills
 
@@ -99,12 +102,3 @@ It is my goal to consisitently build upon that foundation and learn all that i c
 <img src="https://img.shields.io/badge/-Certificate_IV_in_Cybersecurity-004B49?&style=for-the-badge&logo=certificate&logoColor=white" />
 <img src="https://img.shields.io/badge/-edX_Cybersecurity_Bootcamp-1F70C1?&style=for-the-badge&logo=edx&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
-
-
-
-</div>
-
-## Projects
-- Splunk UF SIEM
-- MegaCorpOne Penetration Test
-
