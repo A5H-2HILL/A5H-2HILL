@@ -18,7 +18,18 @@ It is my goal to consisitently build upon that foundation and learn all that i c
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
 | Active Directory Configuration and Management | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
 | Splunk Universal Forwarder with Sysmon Event Logs| <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
-| Splunk Triggered Event Alerts | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
+| Splunk Triggered Event Alerts                 | <a href="https://github.com/A5H-2HILL/Splunk-UF-SIEM">Splunk UF SIEM</a>|
+| Open-Source Intelligence (OSINT) & Reconnaissance | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
+| Network Scanning & Enumeration (Nmap, Zenmap) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
+| Vulnerability Analysis & Exploit Identification | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
+| Exploitation (Metasploit, Searchsploit, RCE)  | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
+| Privilege Escalation (Linux & Windows)        | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
+| Credential Attacks (Hash Cracking, Password Attacks) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
+| Lateral Movement (SMB, WMI, Credential Reuse) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
+| LLMNR/NBT-NS Spoofing (Responder)             | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
+| Persistence Techniques (Backdoors, Scheduled Tasks) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
+| Windows Post-Exploitation (LSASS Dumping, SYSTEM Access) | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
+| Penetration Testing Reporting & Risk Assessment | <a href="https://github.com/A5H-2HILL/MegaCorpOne-PenTest-Report/tree/main">MegaCorpOne PenTest Report</a>|
 
 
 ## Tools
